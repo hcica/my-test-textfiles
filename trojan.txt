@@ -7,6 +7,7 @@ trojan://7F975bac-80c7-4ddb-890d-65a179b2d790@ua-Full.privateip.net:443#%F0%9F%8
 trojan://d6c3b56d-600c-40c3-b413-1abF0c775a3b@sg-Full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://3de1d3a8-4144-44F9-a07c-d7c2e8da8F30@hk-Full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%B3%20China%20Trojan%20@V2rayStore
 trojan://902d6b89-21b0-4b00-a0b9-2cc301467407@ca-Full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://e5143ca0-00ed-4a6d-b22e-4F898e2F9125@jp-Full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://4be06136-031b-4078-8490-bc60F1c19Fed@Fr2-Full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://ecdc1ee3-aaa3-4079-a4d0-275aF540e8eb@us-Full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
 trojan://3d76a069-9e7F-46dc-9F3e-37d05bFceac8@tr-Full.privateip.net:443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Trojan%20@V2rayStore
@@ -18,5 +19,4 @@ trojan://0b14ab8a-e241-4a1b-b174-bF95aaaeba5d@sg2-Full.privateip.net:443#%F0%9F%
 trojan://dF506068-Fd68-4686-80F9-dF5244c73c75@nl-Full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://4237bb5F-7dc9-4F04-9ed0-6b941072600c@nl2-Full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://6803024e-1e5d-466F-b8b4-1Fa1d6cb1313@in-Full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
-trojan://e5143ca0-00ed-4a6d-b22e-4F898e2F9125@jp-Full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://cd35b426-d9bd-4325-916b-9b1e9b83aF23@Fr-Full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
