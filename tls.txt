@@ -15,7 +15,7 @@ vless://Fb435214-1a69-4dc8-ba9e-5Fe675c1a378@de-Freevmess.privateip.net:443?type
 vless://8F7e1abF-ca34-4164-aaF7-bb4032459747@jp-Freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%200%20@V2rayStore
 vless://8d8F756F-2131-4890-acd7-e6810a9dFe1b@nl-Freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%200%20@V2rayStore
 vless://a2c0470a-Feb2-448F-81b9-d4461e5a4eF3@in-Freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20India%200%20@V2rayStore
-vless://003611d2-c7bd-4eb4-b5b8-F07F070cac0e@uk-Freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%200%20@V2rayStore
+vless://cb037741-e4ee-4366-bc4c-2556567b1Fca@uk-Freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%200%20@V2rayStore
 vless://79b94a94-b2F5-4d45-820b-17aFeeae65a6@us-Full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://9c73d0b2-85c3-4c3a-9098-2b3c5bF65233@tr-Full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://5c663beF-297a-4dc8-b345-d49F69661293@kz-Full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2F&Flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20XTLS%20@V2rayStore
