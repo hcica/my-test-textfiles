@@ -1,11 +1,11 @@
 ss://aes-256-gcm:1c612b0b-c22d-4a11-a2b3-aa0e4FF1c6ae@tr-Full.privateip.net:8443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:0531b5F8-e96F-4936-b823-3a58d5a99276@uk-Full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:5948e98e-590e-4d48-a118-91915d22b89a@de-Full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:24488da1-98b0-4810-b794-85Fcab118594@de-Full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:0b0b8402-76c4-417e-9dae-5FF2642b4a67@it-Full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:85cd9ba4-ce58-48b8-b85d-eF8de4Fc07b6@hk-Full.privateip.net:8443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:8ab8ca6b-ce82-4161-80ce-3Fe74db97eba@ca-Full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:01aa6647-9aa0-465b-ac46-44971a4c31db@jp-Full.privateip.net:8443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:4c79d86c-521a-4da4-be7e-19d262322964@Fr-Full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:87d24F93-736a-4761-80ea-d38c423F36de@Fr-Full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5e7387e1-5537-440d-8410-e6d8956ec50e@us-Full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:e8224277-6c32-4929-a156-1283e558bFe6@us2-Full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:6eb5c870-1414-45a7-9F27-1c48beae1d75@de2-Full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
